@@ -1,5 +1,5 @@
 ## Executive Summary
-Analyzed 9,994 retail transactions ($2.3M revenue) to identify geographic revenue opportunities, optimize product mix, and segment customer behavior for targeted marketing strategies.
+I analyzed 9,994 retail transactions ($2.3M revenue) to identify geographic revenue opportunities, optimize product mix, and segment customer behavior for targeted marketing.
 
 ## Key Business Findings
 
