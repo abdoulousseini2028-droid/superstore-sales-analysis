@@ -5,25 +5,25 @@ I analyzed 9,994 retail transactions ($2.3M revenue) to identify geographic reve
 
  1. Regional Performance Disparity
     
-- **West region generates 31% of total revenue** ($725K) with strongest profit margins (22%)
-- **Central region underperforms** with negative margins (-10.4%), indicating pricing or cost issues
+- The West region generates 31% of total revenue ($725K) with strongest profit margins (22%)
+- Central region underperforms with negative margins (-10.4%), indicating pricing or cost issues
 - **Recommendation:** Expand West region operations; investigate Central region cost structure
 
  2. Product Category Insights
     
-- **Technology products deliver 4x better margins** than Furniture (15.6% vs 3.9%)
+- Technology products deliver 4x better margins than Furniture (15.6% vs 3.9%)
 - Top single product: Canon copier generated $25K profit from only 5 units sold
 - **Recommendation:** Increase technology inventory allocation; reduce low-margin furniture SKUs
 
 ### 3. Customer Segmentation Value
 
-- **Consumer segment drives 51% of revenue** despite lower average order value ($224)
+- Consumer segment drives 51% of revenue despite lower average order value ($224)
 - Corporate customers show 5% higher order values but smaller market share (31%)
 - **Recommendation:** Implement loyalty programs targeting high-volume consumer base
 
 ### 4. Seasonal Revenue Patterns
 
-- **November-December 2017 peak:** $118K monthly revenue (2.5x average)
+- November-December 2017 peak: $118K monthly revenue (2.5x average)
 - Consistent Q4 spikes suggest strong holiday demand
 - **Recommendation:** Optimize inventory planning for Q4 surge
 
