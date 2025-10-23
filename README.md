@@ -1,7 +1,7 @@
 ## Executive Summary
 I analyzed 9,994 retail transactions ($2.3M revenue) to identify geographic revenue opportunities, optimize product mix, and segment customer behavior for targeted marketing.
 
-## Key Business Findings
+## Important Findings
 
  1. Regional Performance Disparity
     
